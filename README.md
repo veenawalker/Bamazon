@@ -6,7 +6,7 @@
 * price  
 * stock quantity 
 
-2. The products that I included were *outdoor furniture*.
+2. The products that I included were _outdoor furniture_.
 
 3. Once I ran Node it console logged the table with all of the products. 
 4. The app then prompted the user to select the product and quanity.
