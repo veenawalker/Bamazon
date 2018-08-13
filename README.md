@@ -1,9 +1,11 @@
 # Bamazon
-1. For this activity I created a **MYSQL database** called Bamazon which included a table called products and had columns for the *item id 
-*product name, 
-*department name, 
-*price and 
-*stock quantity 
+1. For this activity I created a **MYSQL database** called Bamazon which included a table called products and had columns for the 
+* item id 
+* product name, 
+* department name, 
+* price  
+* stock quantity 
+
 2. The products that I included were outdoor furniture.
 
 3. Once I ran Node it console logged the table with all of the products. 
